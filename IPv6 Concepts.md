@@ -58,17 +58,17 @@ It sends ICMPv6 Echo Request messages to a target IPv6 address and waits for Ech
 
 ##  IPv6 Traceroute:
 
-IPv6 traceroute is a network diagnostic tool used to trace the path that packets take from a source to a destination.
-It sends packets with incrementing TTL (Time to Live) values and records the intermediate routers' responses.
+- IPv6 traceroute is a network diagnostic tool used to trace the path that packets take from a source to a destination.
+- It sends packets with incrementing TTL (Time to Live) values and records the intermediate routers' responses.
 
 
 ##  Common IPv6 Prefix Lengths:
 
-IPv6 uses prefix lengths to specify the size of the network portion of an address.
-Commonly used prefix lengths include /64, /48, and /32.
-/64 is the standard prefix length for individual subnets within a network.
-/48 is commonly assigned to organizations to allocate multiple /64 subnets.
-/32 is used for the global routing prefix and represents the entire IPv6 address space.
+- IPv6 uses prefix lengths to specify the size of the network portion of an address.
+- Commonly used prefix lengths include /64, /48, and /32.
+- /64 is the standard prefix length for individual subnets within a network.
+- /48 is commonly assigned to organizations to allocate multiple /64 subnets.
+- /32 is used for the global routing prefix and represents the entire IPv6 address space.
 
 
 These concepts cover various aspects of IPv6, including address format, DNS records, networking tools, and addressing conventions. Understanding them is crucial for working with IPv6 networks and services.
